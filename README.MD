@@ -4,7 +4,7 @@
 
 > 1. OpenAI chatGPT bot for [Slack app](https://app.slack.com/) mostly used in corporate  
 > 2. This bot is another app to be used as a chatGPT integrated there  
-> 3. .env file for all generated tokens  
+> 3. .env file for all generated tokens (Create 1 .env file with the 3 variables mentioned in Tokens used section)  
 
 ## Working
 
