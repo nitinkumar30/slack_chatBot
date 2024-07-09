@@ -23,7 +23,7 @@
  
 ## How to's 
 
-### 1. generate OpenAI token 
+### 1. Generate OpenAI token 
 
 Step 1: Navigate to [openAI web app](https://platform.openai.com/settings/profile?tab=api-keys)  
 Step 2: Login and click on **Create new secret key** button  
@@ -57,6 +57,8 @@ Step 13: Go to **App Home** >> Enable **Allow users to send Slash commands and m
 
 [Youtube Video](https://youtu.be/Luujq0t0J7A?si=-oDoNHTGj9XbVEHo)  
 [GitHub Repo](https://github.com/patilanirudh/Slack_bot)  
+
+thanks to @patilanirudh
 
 ## Author
 
