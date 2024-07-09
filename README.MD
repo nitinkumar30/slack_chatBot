@@ -58,8 +58,6 @@ Step 13: Go to **App Home** >> Enable **Allow users to send Slash commands and m
 [Youtube Video](https://youtu.be/Luujq0t0J7A?si=-oDoNHTGj9XbVEHo)  
 [GitHub Repo](https://github.com/patilanirudh/Slack_bot)  
 
-thanks to @patilanirudh
-
 ## Author
 
 [Nitin Kumar](https://linkedin.com/in/nitin30kumar/)  
